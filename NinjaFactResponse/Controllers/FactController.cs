@@ -10,13 +10,9 @@ namespace NinjaFactResponse.Controllers
 	public class FactController : ControllerBase
 	{
 		private readonly IFactService _factService;
-		private readonly IFileService _fileService;
 
-		public FactController(IFactService factService, IFileService fileService)
-		{
-			_factService = factService;
-			_fileService = fileService;
-		}
+		public FactController(IFactService factService) 
+			=> _factService = factService;
 
 		[HttpGet]
 		public async Task<ActionResult> GetSingleFact(string fileNameWithTxtEnding)
