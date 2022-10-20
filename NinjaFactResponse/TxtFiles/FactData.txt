@@ -1,0 +1,7 @@
+﻿{"fact":"Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch.","length":107}
+{"fact":"Cats have about 130,000 hairs per square inch (20,155 hairs per square centimeter).","length":83}
+{"fact":"Owning a cat is actually proven to be beneficial for your health.","length":65}
+{"fact":"In Japan, cats are thought to have the power to turn into super spirits when they die. This may be because according to the Buddhist religion, the body of the cat is the temporary resting place of very spiritual people.i","length":220}
+{"fact":"Cat bites are more likely to become infected than dog bites.","length":60}
+{"fact":"In 1987, cats overtook dogs as the number one pet in America (about 50 million cats resided in 24 million homes in 1986). About 37% of American homes today have at least one cat.","length":178}
+{"fact":"Cats have 30 teeth (12 incisors, 10 premolars, 4 canines, and 4 molars), while dogs have 42. Kittens have baby teeth, which are replaced by permanent teeth around the age of 7 months.","length":183}
